@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.DishDazzle" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/dark_red</item>
+        <item name="colorPrimaryDark">@color/very_dark_red</item>
+        <item name="colorAccent">@color/gray</item>
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:navigationBarColor">@color/white</item>
+    </style>
+
+    <!-- ProgressBar Style -->
+    <style name="ProgressBar">
+        <item name="android:visibility">invisible</item>
+    </style>
+
+    <style name="Theme.DishDazzle" parent="Base.Theme.DishDazzle" />
+</resources>

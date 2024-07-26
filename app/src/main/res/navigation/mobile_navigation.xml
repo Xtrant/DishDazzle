@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/navigation_recipe">
+
+    <fragment
+        android:id="@+id/navigation_recipe"
+        android:name="com.dundxn.dishdazzle.ui.recipe.RecipeFragment"
+        android:label="@string/recipe"
+        tools:layout="@layout/fragment_recipe" />
+    <fragment
+        android:id="@+id/navigation_pantry"
+        android:name="com.dundxn.dishdazzle.ui.pantry.PantryFragment"
+        android:label="@string/pantry"
+        tools:layout="@layout/fragment_pantry" />
+    <fragment
+        android:id="@+id/navigation_favorite"
+        android:name="com.dundxn.dishdazzle.ui.favorite.FavoriteFragment"
+        android:label="@string/favorite"
+        tools:layout="@layout/fragment_favorite" />
+    <fragment
+        android:id="@+id/navigation_camera"
+        android:name="com.dundxn.dishdazzle.ui.camera.CameraFragment"
+        android:label="@string/camera"
+        tools:layout="@layout/fragment_camera" />
+    <fragment
+        android:id="@+id/navigation_list"
+        android:name="com.dundxn.dishdazzle.ui.shoppinglist.ShoppingListFragment"
+        android:label="@string/list"
+        tools:layout="@layout/fragment_shopping_list" />
+</navigation>

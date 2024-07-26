@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">DishDazzle</string>
+
+    <string name="welcome_description">From Ingredients to Inspirations! Discover the joy of cooking with DishDazzle, your ultimate culinary companion.</string>
+    <string name="welcome_button">Get Started</string>
+
+    <string name="register_title">Create an account</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="or">OR</string>
+    <string name="sign_up_google">Sign up with Google</string>
+    <string name="already_have">Already have an account? Login</string>
+
+    <string name="login_title">Welcome back!</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="login">Login</string>
+    <string name="log_in_google">Log in with Google</string>
+    <string name="dont_have">Don\'t have an account? Register</string>
+
+    <string name="recipe">Recipe</string>
+    <string name="pantry">Pantry</string>
+    <string name="camera">Camera</string>
+    <string name="favorite">Favorite</string>
+    <string name="list">List</string>
+    <string name="food_title">Food title</string>
+    <string name="food_region">Food region</string>
+    <string name="food_description">This is the food description consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="food_ingredients_title">Ingredients</string>
+    <string name="food_steps_title">Steps</string>
+    <string name="food_measure">Measure</string>
+    <string name="food_ingredient">One of the ingredient</string>
+    <string name="food_steps">This is the food steps consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+
+    <string name="search_recipe">Search any recipe</string>
+    <string name="greetings">Morning, John! What\'s on the menu today?</string>
+
+    <string name="empty_favorite">Uh-oh, no favorites yet!</string>
+    <string name="empty_favorite_desc">Oops, looks like your favorite recipes list is as bare as a desert! Search for recipes to add to your favorites!</string>
+
+    <string name="empty_shopping">Your shopping list is empty!</string>
+    <string name="empty_shopping_desc">Start writing items now to ensure you never run out of ingredients and can whip up delicious meals anytime you want!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logout">Logout</string>
+    <string name="coming_soon">Coming Soon</string>
+    <string name="title_camera">Can\'t identify the ingredients?</string>
+    <string name="desc_camera">Take a photo to detect it!</string>
+    <string name="btn_title">Take a photo</string>
+    <string name="pick">Pick From Gallery</string>
+
+</resources>

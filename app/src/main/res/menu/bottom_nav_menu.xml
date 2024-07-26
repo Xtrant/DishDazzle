@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_recipe"
+        android:title="@string/recipe"
+        android:icon="@drawable/nav_recipe"/>
+
+    <item
+        android:id="@+id/navigation_pantry"
+        android:title="@string/pantry"
+        android:icon="@drawable/nav_pantry"/>
+
+    <item
+        android:id="@+id/navigation_camera"
+        android:title="@string/camera"
+        android:icon="@drawable/nav_camera"/>
+
+    <item
+        android:id="@+id/navigation_favorite"
+        android:title="@string/favorite"
+        android:icon="@drawable/nav_favorite"/>
+
+    <item
+        android:id="@+id/navigation_list"
+        android:title="@string/list"
+        android:icon="@drawable/nav_list"/>
+</menu>
